@@ -9,7 +9,14 @@
 ---
 
 ## 🚀 About Me  
-I am a **Data Scientist in the making**, passionate about leveraging **Machine Learning, Deep Learning, NLP, and Big Data** to extract insights and build impactful solutions. With a solid foundation in **data analytics, predictive modeling, and cloud computing**, I enjoy working on real-world data-driven projects.
+
+Hello! I'm **Vinay Kumar Chandra**, a **Data Scientist** with a strong passion for solving real-world problems using data. I'm currently pursuing my **M.S. in Applied Data Science** at **Syracuse University**, where I have honed my skills in **Machine Learning**, **Deep Learning**, **Natural Language Processing (NLP)**, and **Big Data** analytics. With a 4.0 GPA and hands-on experience in cutting-edge technologies, I am constantly striving to learn and apply new methodologies to push the boundaries of what data can achieve.
+
+I have experience working on various projects, ranging from **driver safety** using computer vision, to **energy consumption optimization**, and even **product review analysis** using advanced clustering and sentiment analysis techniques. These projects have deepened my expertise in creating practical, deployable models that can make an impact in everyday life.
+
+In addition to my academic pursuits, I have also worked as a **Data Scientist Intern** at **AI Variant**, where I contributed to projects in **sentiment analysis**, **recommendation systems**, and **real-time model deployment**. My technical proficiency spans multiple programming languages like **Python**, **R**, and **SQL**, and I have a solid foundation in **TensorFlow**, **Keras**, and **PySpark**. 
+
+I’m always looking for new challenges and opportunities to **collaborate, learn, and contribute** to the data science and AI community. Feel free to reach out if you are working on something exciting that could benefit from my expertise, or just want to discuss the latest trends in tech!
 
 ---
 
